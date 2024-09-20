@@ -1,6 +1,6 @@
 ### README
 
-Welcome to the Data-Driven-Dimension-Reduction-in-Industrial-Load-Modeling-Using-Inverse-Optimization code repository!
+Welcome to the Data-Driven-Dimension-Reduction code repository!
 
 #### Data Set (data_set)
 
@@ -28,7 +28,7 @@ Thank you for visiting our code repository! Feel free to reach out to us with an
 
 ### README (中文版)
 
-欢迎来到 Data-Driven-Dimension-Reduction-in-Industrial-Load-Modeling-Using-Inverse-Optimization 代码库！
+欢迎来到 Data-Driven-Dimension-Reduction 代码库！
 
 #### 数据集 (data_set)
 
